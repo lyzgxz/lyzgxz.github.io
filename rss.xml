@@ -6,12 +6,22 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Dec 2024 06:34:34 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Dec 2024 06:34:34 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Dec 2024 06:35:10 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Dec 2024 06:35:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
     <category>使用指南</category>
+    <item>
+      <title></title>
+      <link>https://newzone.top/intro.html</link>
+      <guid>https://newzone.top/intro.html</guid>
+      <source url="https://newzone.top/rss.xml"></source>
+      <description>天心有眷，王道唯直</description>
+      <pubDate>Wed, 11 Dec 2024 06:23:55 GMT</pubDate>
+      <content:encoded><![CDATA[<p>天心有眷，王道唯直</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>博客文章样例 2</title>
       <link>https://newzone.top/posts/2024-03-02-blog_example2.html</link>
